@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MSzgy
 - 👀 I’m interested in Java NLP Python JS
-- 🌱 I’m currently learning JS and sap UI5
+- 🌱 I’m currently learning JS and LLM
 - 💞️ I’m looking to collaborate on a foreign enterprise
 - 📫 How to reach me: forke me or twitter: mosu
 
